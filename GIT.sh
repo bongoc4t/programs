@@ -23,3 +23,5 @@ git merge -d BRANCH #remove the branch
 
 git checkout -b NAME #create a new branch
 git checkout master #switch to the main branch
+
+git
