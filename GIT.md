@@ -27,3 +27,7 @@ git checkout master #switch to the main branch
 #delete a file
 git rm file1.txt
 git commit -m "remove file1.txt"
+
+#git error: failed to push some refs to remote
+git pull --rebase origin main
+git push origin main
