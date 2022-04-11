@@ -23,3 +23,7 @@ git merge -d BRANCH #remove the branch
 
 git checkout -b NAME #create a new branch
 git checkout master #switch to the main branch
+
+#delete a file
+git rm file1.txt
+git commit -m "remove file1.txt"
