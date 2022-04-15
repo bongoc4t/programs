@@ -6,12 +6,3 @@ Linux $HOME/.config/Code/User/settings.json
 #tab several lines in VSCode
 control + shift and select the lines you want to indent
 control + ] to tab them
-
---TMUX
-ctrl+b = bind key
-bind+c = new tab
-bind+, = rename tab
-bind+x = kill tab
-bind+% = split panel vertically
-bind+" = split panel horizontaly
-echo "set -g mouse on" >> ~/.tmux.conf #to enable scroll

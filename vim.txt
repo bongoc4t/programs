@@ -1,3 +1,0 @@
-#JUMP TO X LINE.There are at least three different ways to go to a particular line (line 42 for example):
-42G
-42gg
